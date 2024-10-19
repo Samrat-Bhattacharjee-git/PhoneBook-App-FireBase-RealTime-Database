@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "199552841649",
+    "project_id": "fir-phonebook-c1212",
+    "storage_bucket": "fir-phonebook-c1212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199552841649:android:91dd20f45e385344892f90",
+        "android_client_info": {
+          "package_name": "com.example.firebase_phonebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANsbnDaVrj0YP7XNICjZyqL7dSnNU3A-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
